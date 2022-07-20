@@ -43,22 +43,35 @@
 
 .name {
     color: #D6DBDF;
+<<<<<<< HEAD
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+=======
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+>>>>>>> 8e06ec23a5e80f77ae8e2da27ea26147e969ab36
 }
 
 .profession {
     color: #eeeeee;
+<<<<<<< HEAD
+    font-size: 15px;
+    text-transform: none;
+=======
     font-size: 20px;
     text-transform: uppercase;
+>>>>>>> 8e06ec23a5e80f77ae8e2da27ea26147e969ab36
     text-align: center;
 }
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #eeeeee;
+    color: #000000;
     font-size: 20px;
+    text-align: center;
 }
 
 .contact-info ul {
@@ -67,19 +80,21 @@
 
 .contact-info ul li,
 .references ul li {
-    padding: .4rem 0;
+    padding: .3rem 0;
     color: #eeeeee;
+    font-size: 12px;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
-    font-size: 18px;
-    color: #eeeeee;
+    font-size: 12px;
+    color: #000000;
+    text-align: left;
 }
 
 .skills ul {
-    padding-top: 1.5rem;
+    padding-top: 2rem;
 }
 .skills ul li p {
     padding: .4rem 0;
@@ -92,12 +107,14 @@
 
 .right-title {
     color: #eeeeee;
+    font-size: 20px;
+    text-align: center;
 }
 
 .gap {
     padding-bottom: 2rem;
 }
 .about-me-contents {
-    font-size: 18px;
+    font-size: 15px;
     color: #eeeeee;
 }
