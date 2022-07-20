@@ -43,27 +43,16 @@
 
 .name {
     color: #D6DBDF;
-<<<<<<< HEAD
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
     text-align: center;
-=======
-    font-size: 30px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
->>>>>>> 8e06ec23a5e80f77ae8e2da27ea26147e969ab36
 }
 
 .profession {
     color: #eeeeee;
-<<<<<<< HEAD
     font-size: 15px;
     text-transform: none;
-=======
-    font-size: 20px;
-    text-transform: uppercase;
->>>>>>> 8e06ec23a5e80f77ae8e2da27ea26147e969ab36
     text-align: center;
 }
 
