@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #273b87;
+    background-color: #478053;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #5e6aa7;
+    background-color: #AFCCB5;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -94,8 +94,10 @@
 }
 
 .right-title {
-    color: #ffffff;
-    text-align: center;
+    color: #478053;
+    text-align: left;
+    font-weight: bold;
+    padding-left: 2rem;
 }
 
 .gap {
@@ -103,7 +105,8 @@
 }
 .about-me-contents {
     font-size: 15px;
-    color: #eeeeee;
+    color: #6E8071;
+    text-align: justify;
 }
 
 .experience-contents,
@@ -111,8 +114,9 @@
 .awards-contents {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    padding-bottom: 2rem;
-    color: #F1F8FD;
+    padding-bottom: 1rem;
+    color: #ffffff;
+    padding-left: 2rem;
 }
 
 .exp-company-name,
@@ -120,6 +124,7 @@
 .awards-company-name {
     font-size: 18px;
     font-weight: bold;
+    color: #6E8071;
 }
 
 .exp-time-period,
@@ -132,7 +137,9 @@
 .education-subject,
 .awards-name {
     font-size: 18px;
-    border-bottom: 2px solid #ffffff;
+    color: #6E8071;
+    padding-left: 1rem;
+    border-bottom: solid 2px #6E8071;
 }
 
 .exp-desc,
